@@ -15,4 +15,12 @@
 
 
 
+### [Chi](https://chixbin.com/)
+
+设计师。
+
+### [Niin](https://blog.niin.ga/)
+
+
+有很多 Notion 教程。
 
