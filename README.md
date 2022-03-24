@@ -9,6 +9,10 @@
 
 ## 信息源
 
+### [RSS订阅源推荐](https://rss-source.com/)
+
+充实你的订阅源，提高信息质量。
+
 ### [中文Newsletter导航](https://www.notion.so/kfang/Newsletter-68ee46c0a4574f659fb8a873ead438c6)
 
 这里只是提供一个导航，不代表推荐，更不代表为这些newsletter的内容背书。通过newsletter获取信息的读者可以通过自己的判断力来进行取舍。
